@@ -23,6 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '0%$v8&)*te+8ac6)1his4@a#x#g4)1_z+&&glc+l4_qrqzj^ug'
 
 # SECURITY WARNING: don't run with debug turned on in production!
+# I need to change this debug true in production. I will do that just calm down.
 DEBUG = True
 
 ALLOWED_HOSTS = ['electionblog.herokuapp.com']
